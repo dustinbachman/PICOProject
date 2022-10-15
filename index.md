@@ -29,7 +29,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 <img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
-[Miny]
+[Miny](/Miny/miny.html)
 
 ### Radical Ascension
 
