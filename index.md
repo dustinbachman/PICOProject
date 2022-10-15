@@ -27,7 +27,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Gunner Channel
 
 ### Mini - [dustinbachman](https://github.com/dustinbachman/PICOProject)
-<img scr = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
+<img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
 ### Radical Ascension
 
