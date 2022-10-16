@@ -4,4 +4,4 @@
 ## Instructions
 ### load minyv1.p8
 ### run
-### Skull icons to test death function, blue boxes move to a random level, and orange boxes go back to the starting level. 
+### Skull icons to test death function, red arrow to move to a new random level, green arrow to go back to transition stage. Arrow keys to move. 
