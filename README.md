@@ -4,4 +4,4 @@
 ## Instructions
 ### load minyv1.p8
 ### run
-### Skull icons to test death function, red arrow to move to a new random level, green arrow to go back to transition stage. Arrow keys to move. 
+### Arrow keys to move. Go to the red arrow to start the game. Green arrow to go back to transition room. 
