@@ -4,4 +4,4 @@
 ## Instructions
 ### load minyv1.p8
 ### run
-### Arrow keys to move. Go to the red arrow to start the game. Green arrow to go back to transition room. 
+### Arrow keys to move. Go to the red arrow to start the game. 
